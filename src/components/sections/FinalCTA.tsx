@@ -29,7 +29,7 @@ export function FinalCTA() {
         </h2>
 
         <p className="text-lg md:text-xl text-white/60 mb-12 max-w-2xl mx-auto font-light leading-relaxed">
-          Partner with CareNura to engineer premium digital solutions that drive your business forward. Let's talk about your vision.
+          Partner with CareNura to engineer premium digital solutions that drive your business forward. Let&apos;s talk about your vision.
         </p>
 
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
